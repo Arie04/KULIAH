@@ -1,5 +1,6 @@
 Nama : Arie Julfardi Pauwah
 NPM : 07352211062
+KELAS : 5IF3
 
 ## Deskripsi Singkat Program
 1. Meminta input kemudian Menyimpan data karyawan dalam bentuk variabel dengan tipe data yang telah ditentukan tugas.
